@@ -51,7 +51,7 @@ This program covers the latest concepts in data science, machine learning, and a
 ### 📄 View My Resume
 
 <p align="center">
-  <a href="YOUR_RESUME_LINK_HERE" target="_blank">
+  <a href="https://github.com/shreya-005/my-resume/blob/main/Shreya(D).pdf" target="_blank">
     <img src="https://img.shields.io/badge/View_My_Resume-007ACC?style=for-the-badge&logo=googledocs&logoColor=white" alt="View My Resume">
   </a>
 </p>
