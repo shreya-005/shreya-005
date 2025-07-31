@@ -16,8 +16,8 @@ This program covers the latest concepts in data science, machine learning, and a
 
 ---
 
-### ⚙️ Technical Skills
-<div>
+<div class="technical-skills">
+    <h2> Technical Skills</h2>
     <h3>Languages:</h3>
     <p>C, Java, JavaScript, Python, HTML5, CSS3, PHP, SQL </p>
 
@@ -30,9 +30,8 @@ This program covers the latest concepts in data science, machine learning, and a
 
 ---
 
-<p align="center">
-  <a href="https://github.com/shreya-005/my-resume/blob/main/Shreya(D).pdf" target="_blank">### 📄 View My Resume</a>
-</p>
+<a href="https://github.com/shreya-005/my-resume/blob/main/Shreya(D).pdf" target="_blank">### 📄 View My Resume</a>
+
 
 ---
 
