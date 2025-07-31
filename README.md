@@ -18,9 +18,6 @@ This program covers the latest concepts in data science, machine learning, and a
 
 ### ⚙️ Technical Skills
 
-<div class="technical-skills">
-    <h2><img src="https://raw.githubusercontent.com/Anmol-Verma/anmol-verma/main/assets/icons/skills.png" alt="Technical Skills Icon" width="24" height="24" style="vertical-align: middle; margin-right: 8px;"> Technical Skills</h2>
-
     <h3>Languages:</h3>
     <p>C, Java, JavaScript, Python, HTML5, CSS3, PHP, SQL </p>
 
@@ -36,9 +33,7 @@ This program covers the latest concepts in data science, machine learning, and a
 ### 📄 View My Resume
 
 <p align="center">
-  <a href="https://github.com/shreya-005/my-resume/blob/main/Shreya(D).pdf" target="_blank">
-    <img src="https://img.shields.io/badge/View_My_Resume-007ACC?style=for-the-badge&logo=googledocs&logoColor=white" alt="View My Resume">
-  </a>
+  <a href="https://github.com/shreya-005/my-resume/blob/main/Shreya(D).pdf" target="_blank">View My Resume</a>
 </p>
 
 ---
