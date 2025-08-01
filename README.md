@@ -44,7 +44,7 @@ This program covers the latest concepts in data science, machine learning, and a
 
 ---
 
-<a href="https://github.com/shreya-005/my-resume/blob/main/Shreya(D).pdf" target="_blank">View My Resume</a>
+<a href="https://github.com/shreya-005/my-resume/blob/main/Resume.pdf" target="_blank">View My Resume</a>
 
 ---
 
